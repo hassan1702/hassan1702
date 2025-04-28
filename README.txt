@@ -8,7 +8,10 @@ Welcome to my GitHub! I'm a **Master of Business Analytics** student at Macquari
 - 🌐 Explore my [portfolio website](https://hassan1702.github.io) for my projects.
 
 ## 📂 Featured Projects
-<!-- Projects will be added here -->
+## 📂 Featured Projects
+- **[STAT8123 Assignment 1: Statistical Graphics Analysis]**  
+  Critiqued five statistical graphics for design and effectiveness.  
+  🔗 [View Project](https://github.com/hassan1702/stat8123-assignment1) | [Live Demo](https://hassan1702.github.io/projects/stat8123-assignment1)
 
 ## 📫 Get in Touch
 - 📧 Email: [hassan@example.com](mailto:hassan@example.com)
